@@ -580,7 +580,7 @@ async def cb_disconnect(bot, update: CallbackQuery):
     remove_active = await db.del_active(chat_id, int(channel_id))
     
     if not remove_active:
-        await update.answer("Couldnt Full Fill YOur Request...\n Report This @CrazyBotszGrp Along With Bot's Log", show_alert=True)
+        await update.answer("Couldnt Full Fill YOur Request..", show_alert=True)
         return
     
     text= f"<i>Sucessfully Disconnected From</i> <code>{channel_name}</code>\n"
