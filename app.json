@@ -1,0 +1,46 @@
+{
+    "name": "Auto Filter Bot",
+    "description": "A Filter Bot Which Doing Its Job",
+    "logo": "https://telegra.ph/file/6fa616ffbf56d2da0d3f5.jpg",
+    "keywords": [
+        "Auto",
+        "Filter",
+        "Mongo DB"
+    ],
+    "website": "https://github.com/DalinMathew",
+    "repository": "https://github.com/DalinMathew/AutoFilterBot",
+    "success_url": "https://t.me/jointhisdiscussion",
+    "env": {
+        "APP_ID": {
+            "description": "Your APP ID",
+            "value": ""
+        },
+        "API_HASH": {
+            "description": "Your API Hash",
+            "value": ""
+        },
+        "BOT_TOKEN": {
+            "description": "Your Bot Token",
+            "value": ""
+        },
+        "DB_URI": {
+            "description": "Your Mongo DB URL",
+            "value": ""
+        },
+        "USER_SESSION": {
+            "description": "A Pyrogram User Session String",
+            "value": ""
+        }
+    },
+    "buildpacks": [
+        {
+            "url": "heroku/python"
+        }
+    ],
+    "formation": {
+        "worker": {
+            "quantity": 1,
+            "size": "free"
+        }
+    }
+}
