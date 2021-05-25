@@ -6,8 +6,10 @@ class Translation(object):
     
     START_TEXT = """<b>Hey {}!! ☺️</b>
 <i>Am Just A Advance Auto Filter Bot Created to Work in Malayalam Rockers Group. 😉
-You Can't Add Me to Your Group !! 🍒/n
+
+You Can't Add Me to Your Group !! 🍒
 You can create Your own by Clicking on Source Code !!!😎
+
 @MalRok 
 </i>"""    
     
