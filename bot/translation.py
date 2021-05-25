@@ -1,13 +1,13 @@
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
-# (c) @AlbertEinsteinTG
+# (c) @DalinMathew
 
 class Translation(object):
     
     START_TEXT = """<b>Hey {}!! ☺️</b>
 <i>Am Just A Advance Auto Filter Bot Created to Work in Malayalam Rockers Group. 😉
 You Can't Add Me to Your Group !! 🍒/n
-You can create Your own by <a href="https://youtu.be/qW9o9G7stCk">Clicking here...</a>
+You can create Your own by Clicking on Source Code !!!😎
 @MalRok 
 </i>"""    
     
