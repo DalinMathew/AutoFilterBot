@@ -89,10 +89,10 @@ async def start(bot, update):
         return
 
     buttons = [[
-        InlineKeyboardButton('Developer', url='https://t.me/null_fallaci'),
-        InlineKeyboardButton('Source Code 🧾', url ='https://youtu.be/qW9o9G7stCk')
+        InlineKeyboardButton('Group', url='https://t.me/jointhisdiscussion'),
+        InlineKeyboardButton('Deploy Yours', url ='https://youtu.be/qW9o9G7stCk')
     ],[
-        InlineKeyboardButton('Support 🛠', url='https://youtu.be/qW9o9G7stCk')
+        InlineKeyboardButton('Edit Yours', url='https://youtu.be/fisZ9z_QXNA')
     ],[
         InlineKeyboardButton('Help ⚙', callback_data="help")
     ]]
