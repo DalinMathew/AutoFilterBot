@@ -8,7 +8,7 @@ class Translation(object):
 <i>Am Just A Advance Auto Filter Bot Created to Work in <i>Malayalam Rockers Group. 😉.</i>
 You Can't Add Me to Your Group !! 🍒
 
-You can create Your own by Clicking on Deploy Tutorial📜 !!!😎 </b>
+You can create Your own by Clicking on Deploy Tutorial for📜 !!!😎 </b>
 
 @MalRok 
 </i>"""    
