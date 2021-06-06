@@ -89,7 +89,7 @@ async def start(bot, update):
         return
 
     buttons = [[
-        InlineKeyboardButton('Group', url='https://t.me/jointhisdiscussion'),
+        InlineKeyboardButton('Our Links', url='https://t.me/jointhisdiscussion'),
         InlineKeyboardButton('Deploy Yours', url ='https://youtu.be/qW9o9G7stCk')
     ],[
         InlineKeyboardButton('Edit Yours', url='https://youtu.be/fisZ9z_QXNA')
