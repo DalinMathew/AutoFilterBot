@@ -5,16 +5,16 @@
 class Translation(object):
     
     START_TEXT = """<b><u>Hey {} !! </u>☺️
-<i>Am Just A Advance Auto Filter Bot Created to Work in <i>Malayalam Rockers Group. 😉.</i>
-You Can't Add Me to Your Group !! 🍒
+<i>ᴀᴍ ᴊᴜsᴛ ᴀ ᴀᴅᴠᴀɴᴄᴇ ᴀᴜᴛᴏ ғɪʟᴛᴇʀ ʙᴏᴛ ᴄʀᴇᴀᴛᴇᴅ ᴛᴏ ᴡᴏʀᴋ ɪɴ <i>𝕄𝕒𝕝𝕒𝕪𝕒𝕝𝕒𝕞 ℝ𝕠𝕔𝕜𝕖𝕣𝕤 𝔾𝕣𝕠𝕦𝕡. 😉.</i>
+𝙔𝙤𝙪 𝘾𝙖𝙣'𝙩 𝘼𝙙𝙙 𝙈𝙚 𝙩𝙤 𝙔𝙤𝙪𝙧 𝙂𝙧𝙤𝙪𝙥!! 🍒
 
 You can create Your own by Clicking on Deploy Tutorial for📜 !!!😎 </b>
 
-@MalRok 
+ 
 </i>"""    
     
     HELP_TEXT = """
-<b><i><u>Create Your Auto Filter Using This Link \n:- https://youtu.be/qW9o9G7stCk☺️☺️ </u></i></b>
+<b>Create Your Auto Filter Using This Link \n:- https://youtu.be/qW9o9G7stCk ☺️☺️ </b>
 
 """
     
